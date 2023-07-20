@@ -84,7 +84,7 @@ button img{
     width: 90%;
 }
 .colorbox{
-    position: absolute;
+    position: absolute; 
     right: 0;
     top: 0;
     background: linear-gradient(#ff54a2, #55575a);
