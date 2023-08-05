@@ -1,0 +1,784 @@
+@media screen and (max-width: 1420px) {
+
+    .skeleton {
+        background: url(images/background-1-tab.png);
+        padding: 20px;
+    }
+
+    /*page-1-header */
+
+    .header-img-2 {
+        display: block;
+    }
+
+    .header-img-1 {
+        display: none;
+    }
+
+    .header-img-3 {
+        display: none;
+    }
+
+    .large-heading {
+        font-size: 100px;
+    }
+
+    .med-heading {
+        font-size: 70px;
+    }
+
+
+    /* page-1-A */
+
+    .image-container-1-A-top {
+        display: none;
+    }
+
+    .image-container-1-A-bottom {
+        display: none;
+    }
+
+    .image-container-1-A-tab {
+        display: block;
+    }
+
+    .page-1-A {
+        margin-top: 150px;
+    }
+
+    /* page-1-B */
+
+    .page-1-B {
+        margin-top: 350px;
+    }
+
+    .container-1-B {
+        gap: 100px;
+    }
+
+    .card-container-1-B {
+        gap: 100px;
+        max-width: 1200px;
+    }
+
+    .title-container-1-B {
+        max-width: 300px;
+    }
+
+    /* page-1-C */
+
+    .page-1-C {
+        margin-top: 300px;
+    }
+
+    .image-1-C-pc {
+        display: none;
+    }
+
+    .image-1-C-tab {
+        display: block;
+        position: relative;
+        top: 10px;
+    }
+
+    .image-1-C-phone {
+        display: none;
+    }
+
+    /* footer */
+
+    .footer-1 {
+        display: none;
+    }
+
+    /* footer-tab */
+
+    .footer-1-tab {
+        display: block;
+        margin-top: 300px;
+    }
+
+    /* footer-phone */
+
+    .footer-1-phone {
+        display: none;
+    }
+
+    /* page-2  */
+    .image-container-2-header {
+        max-width: 100%;
+        height: auto;
+    }
+
+    .skeleton-2 {
+        background-image: url(images/background-img-2-tab.png);
+
+    }
+
+    /* header-2  */
+
+    .content-container-2-header {
+        max-width: 300px;
+    }
+
+    .header-2-image {
+        width: 375px;
+        height: auto;
+    }
+
+    /* page-2-A  */
+
+    .content-container-2-A {
+        max-width: 600px;
+    }
+
+    .container-2-A {
+        gap: 100px;
+    }
+
+    .page-2-A-image {
+        width: 800px;
+        height: auto;
+    }
+
+    /* page-2-B  */
+
+    .image-container-2-B-top {
+        display: none;
+    }
+
+    .image-container-2-B-bottom {
+        display: none;
+    }
+
+    .image-container-2-B-tab {
+        display: block;
+    }
+
+    .image-container-2-B-phone {
+        display: none;
+    }
+
+    .content-container-2-B {
+        max-width: 400px;
+    }
+
+    /* page-2-C  */
+
+    .page-2-C {
+        background-color: #642C99;
+        margin-top: 100px;
+    }
+
+    .image-2-C {
+        width: 800px;
+        height: auto;
+    }
+
+    /* footer-2  */
+
+    .footer-2 {
+        background-color: #642C99;
+        display: none;
+    }
+
+    .footer-2-tab {
+        background-color: #642C99;
+        display: block;
+    }
+
+    .footer-2-phone {
+        background-color: #642C99;
+        display: none;
+    }
+
+    /* page-3  */
+
+    .skeleton-3 {
+        background-image: url(images/background-3-tab.png);
+    }
+
+    /* header  */
+
+    .image-container-3-header-top {
+        width: 100px;
+        height: auto;
+        right: 300px;
+        bottom: 100px;
+    }
+
+    .image-container-3-header-bottom {
+        width: 111px;
+        height: auto;
+        left: 300px;
+        bottom: 0px;
+    }
+
+    /* page-3-A  */
+
+    .page-3-A {
+        margin-top: 150px;
+    }
+
+    .container-3-A {
+        background-image: none;
+    }
+
+    .imgage-3-A-top {
+        display: none;
+    }
+
+    .imgage-3-A-middle {
+        display: none;
+    }
+
+    .imgage-3-A-bottom {
+        display: none;
+    }
+
+    .imgage-3-A-tab {
+        display: block;
+    }
+
+    #card-3-A-1 {
+        position: relative;
+        bottom: 400px;
+        right: 20px;
+    }
+
+    #card-3-A-2 {
+        position: relative;
+        right: 100px;
+        top: 0px;
+        bottom: 50px;
+    }
+
+    #card-3-A-3 {
+        position: relative;
+        left: 50px;
+        bottom: 250px;
+    }
+
+    .card-3-A {
+        max-width: 250px;
+    }
+
+    /* page-4  */
+
+    .skeleton-4 {
+        background-image: url(images/background-4-tab.png);
+    }
+
+    /* header-4 */
+
+    .header-4-top {
+        display: none;
+    }
+
+    .header-4-bottom {
+        display: none;
+    }
+
+    .header-4-tab {
+        display: block;
+    }
+
+    .header-4-phone {
+        display: none;
+    }
+
+    .content-container-4-header {
+        max-width: 400px;
+    }
+
+    /* PAGE-4-A */
+
+    .page-4-A{
+        margin-top:250px;
+    }
+
+    .large-line {
+        max-width: 700px;
+    }
+
+    #label1 {
+        margin-left: 330px;
+    }
+
+    #label2 {
+        margin-left: 316px;
+    }
+
+    #label3 {
+        margin-left: 220px;
+    }
+
+    /* page-4-B */
+
+    .input-card-bot-int{
+        max-width: 300px;
+    }
+    .input-card-container{
+        max-width: 900px;
+    }
+
+}
+
+@media screen and (max-width: 860px) {
+
+    .skeleton {
+        background: url(images/background-1-phone.png), lightgray 50% / cover no-repeat;
+        padding: 20px;
+    }
+
+    /*page-1-header */
+
+    .content-container-1-header {
+        max-width: 300px;
+    }
+
+    .navbar-content {
+        display: none;
+    }
+
+    .navbar-scrolldown-icon {
+        display: block;
+    }
+
+    .container-1-header {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .header-img-2 {
+        display: none;
+    }
+
+    .header-img-1 {
+        display: none;
+    }
+
+    .header-img-3 {
+        display: block;
+    }
+
+    .large-heading {
+        font-size: 70px;
+    }
+
+    .med-heading {
+        font-size: 52px;
+    }
+
+    /* page 1-A */
+
+    .page-1-A {
+        margin-top: 50px;
+
+    }
+
+    .image-container-1-A-top {
+        display: none;
+    }
+
+    .image-container-1-A-bottom {
+        display: none;
+    }
+
+    .image-container-1-A-tab {
+        display: none;
+    }
+
+    .image-container-1-A-phone {
+        display: block;
+    }
+
+    .container-1-A {
+        flex-direction: column-reverse;
+        gap: 30px;
+    }
+
+    .content-container-1-A {
+
+
+        max-width: 300px;
+    }
+
+    /* page-1-B */
+
+    .page-1-B {
+        margin-top: 20px;
+    }
+
+    .card-container-1-B {
+        max-width: 500px;
+        gap: 10px;
+    }
+
+    .container-1-B {
+        gap: 10px;
+    }
+
+    .card-image-1-B {
+        width: 130px;
+        height: 230px;
+        max-width: 100%;
+        height: auto;
+    }
+
+    .card-1-B {
+        gap: 2px;
+        max-width: 360px;
+    }
+
+    /* page-1-C */
+
+    .page-1-C {
+        margin-top: 160px;
+    }
+
+    .image-1-C-pc {
+        display: none;
+    }
+
+    .image-1-C-tab {
+        display: none;
+    }
+
+    .image-1-C-phone {
+        display: block;
+    }
+
+    .container-1-C {
+        flex-direction: column;
+        align-items: center;
+        gap: 40px;
+    }
+
+    .content-container-1-C {
+        max-width: 300px;
+    }
+
+    /* .footer-1 */
+
+    .footer-1 {
+        display: none;
+    }
+
+    /* footer-tab */
+
+    .footer-1-tab {
+        display: none;
+        margin-top: 300px;
+    }
+
+    /* footer-phone */
+
+    .footer-1-phone {
+        display: block;
+        margin-top: 35px;
+    }
+
+    .footer-1-email-button {
+        width: 300px;
+
+    }
+
+    .footer-1-email-button-send {
+        width: 300px;
+
+    }
+
+    /* page-2  */
+
+    .skeleton-2 {
+        background-image: url(images/background-image-2-phone.png);
+
+    }
+
+    /* header-2  */
+
+    .container-2-header {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .header-2-image {
+        width: 248px;
+        height: auto;
+    }
+
+    /* page-2-A  */
+
+    .page-2-A {
+        margin-top: 60px;
+        padding: 0px;
+    }
+
+    .page-2-A-image {
+        width: 340px;
+        height: auto;
+    }
+
+    .content-container-2-A {
+        max-width: 300px;
+    }
+
+    .container-2-A {
+        align-items: center;
+    }
+
+    /* page-2-B  */
+
+    .page-2-B {
+        margin-top: 150px;
+    }
+
+    .container-2-B {
+        gap: 30px;
+    }
+
+    .image-container-2-B-top {
+        display: none;
+    }
+
+    .image-container-2-B-bottom {
+        display: none;
+    }
+
+    .image-container-2-B-tab {
+        display: none;
+    }
+
+    .image-container-2-B-phone {
+        display: block;
+    }
+
+    .container-2-B {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    /* page-2-C  */
+
+    .page-2-C {
+        margin-top: 20px;
+        padding: 20px;
+    }
+
+    .image-2-C {
+        width: 330px;
+        height: auto;
+    }
+
+    .content-container-2-C-title {
+        max-width: 350px;
+        align-items: center;
+    }
+
+    /* footer-2  */
+
+    .footer-2 {
+        background-color: #642C99;
+        display: none;
+    }
+
+    .footer-2-tab {
+        background-color: #642C99;
+        display: none;
+    }
+
+    .footer-2-phone {
+        background-color: #642C99;
+        display: block;
+        padding: 20px;
+    }
+
+    /* page-3  */
+
+    .skeleton-3 {
+        background-image: url(images/bg\ 3-phone.png);
+        padding: 20px;
+    }
+
+    /* header  */
+
+    .image-container-3-header-phone {
+        display: block;
+    }
+
+    .image-container-3-header-top {
+        display: none;
+    }
+
+    .image-container-3-header-bottom {
+        display: none;
+    }
+
+    .content-container-3-header {
+        max-width: 330px;
+    }
+
+    /* page-3-A  */
+
+    .page-3-A {
+        margin-top: 40px;
+    }
+
+    .container-3-A {
+        gap: 20px;
+    }
+
+    .imgage-3-A-tab {
+        width: 281px;
+        height: auto;
+    }
+
+    .card-container-3-A {
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .card-3-A {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        align-items: center;
+
+    }
+
+    #card-3-A-1 {
+        position: relative;
+        bottom: 0px;
+        right: 0px;
+    }
+
+    #card-3-A-2 {
+        position: relative;
+        right: 0px;
+        top: 0px;
+    }
+
+    #card-3-A-3 {
+        position: relative;
+        left: 0px;
+        bottom: 0px;
+    }
+
+    /* page-3-B */
+
+    .page-3-B {
+        margin-top: 70px;
+    }
+
+    .content-container-3-B {
+        max-width: 320px;
+    }
+
+    /* page-4  */
+
+    .skeleton-4 {
+        background-image: url(images/background-4-phone.png);
+        padding: 20px;
+    }
+
+    /* header-4 */
+
+    .header-4-top {
+        display: none;
+    }
+
+    .header-4-bottom {
+        display: none;
+    }
+
+    .header-4-tab {
+        display: none;
+    }
+
+    .header-4-phone {
+        display: block;
+    }
+
+    .container-4-header {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .content-container-4-header {
+        max-width: 300px;
+    }
+
+    /* PAGE-4-A */
+
+    .page-4-A{
+        margin-top: 0px;
+    }
+
+    .content-container-4-A-title {
+        display: none;
+    }
+
+    .large-line {
+        width: 300px;
+    }
+
+    .package-container-4-A {
+        justify-content: center;
+    }
+
+    .package-container {
+        display: flex;
+        gap: 20px;
+    }
+
+    .package-contianer-4-A {
+        justify-content: center;
+    }
+
+    #label1 {
+        margin-left: 0px;
+    }
+
+    #label2 {
+        margin-left: 0px;
+    }
+
+    #label3 {
+        margin-left: 0px;
+    }
+
+    .package-text {
+        color: #642C99;
+        text-align: center;
+        font-family: Wendy One;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+    }
+    .package-card .para{
+        max-width: 300px;
+    }
+
+    /* page-4-B */
+    
+    
+    .page-4-B{
+        margin-top: 20px;
+        margin-bottom: 100px;
+    }
+    .input-card-container{
+        max-width: 350px;
+    }
+    .container-4-B{
+        gap: 30px;
+    }
+    #anything{
+        max-width: 300px;
+    }
+
+}
